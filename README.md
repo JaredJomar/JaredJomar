@@ -20,3 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaredjomar&" alt="jaredjomar" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JaredJomar=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JaredJomar=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JaredJomar=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JaredJomar=anuraghazra&show_icons=true&theme=radical)
