@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaredjomar" alt="jaredjomar" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks and C++**
+- 🌱 I’m currently learning **Frameworks, C++ and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
