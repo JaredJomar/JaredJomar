@@ -19,4 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaredjomar&show_icons=true&locale=en" alt="jaredjomar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaredjomar&" alt="jaredjomar" /></p>
-[![JaredJomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaredJomar)](https://github.com/JaredJomar/github-readme-stats)
+
