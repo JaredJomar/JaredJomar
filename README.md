@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
-<h3 align="center">Computer Engineer from Puerto Rico</h3>
+<h3 align="center">Computer Engineer students from Puerto Rico</h3>
 <img aling="right" alt="Colding" width="400" src="https://c.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat" alt="jaredjomar" /> </p>
 
