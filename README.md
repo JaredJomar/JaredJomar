@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
 <h3 align="center">Computer Engineer Students From Puerto Rico</h3>
-<img aling="right" alt="Colding" width="400" src="https://c.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif" loop=infinite>
+<img aling="right" alt="Colding" width="400" src="https://c.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat" alt="jaredjomar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaredjomar" alt="jaredjomar" /></a> </p>
