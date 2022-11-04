@@ -51,7 +51,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredjomar&layout=compact)](https://github.com/jaredjomar/github-readme-stats)
 
-[![jaredjomar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaredjomar)](https://github.com/jaredjomar/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JaredJomar)](https://github.com/jaredjomar/github-readme-stats)
+[![jaredjomar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JaredJomar)](https://github.com/jaredjomar/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaredjomar&" alt="jaredjomar" /></p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
