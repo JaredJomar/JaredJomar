@@ -49,7 +49,7 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JaredJomar&theme=gruvbox&border_radius=4.5) -->
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredjomar&layout=compact)](https://github.com/jaredjomar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredjomar&layout=compact&show_icons=true&theme=radical)](https://github.com/jaredjomar/github-readme-stats)
 
 [![jaredjomar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JaredJomar)](https://github.com/jaredjomar/github-readme-stats)
 
