@@ -50,7 +50,7 @@
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredjomar&layout=compact&show_icons=true&theme=radical)](https://github.com/jaredjomar/github-readme-stats)
-
-[![jaredjomar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JaredJomar&show_icons=true&theme=radical)](https://github.com/jaredjomar/github-readme-stats)
+<!--
+[![jaredjomar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JaredJomar&show_icons=true&theme=radical)](https://github.com/jaredjomar/github-readme-stats)-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaredjomar&show_icons=true&theme=radical" alt="jaredjomar" /></p>
