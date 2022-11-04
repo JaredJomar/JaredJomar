@@ -49,11 +49,8 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JaredJomar&theme=gruvbox&border_radius=4.5) -->
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredjomar)](https://github.com/jaredjomar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredjomar&layout=compact)](https://github.com/jaredjomar/github-readme-stats)
 
-<p><img align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=jaredjomar&show_icons=true&locale=en&layout=compact"
-      alt="jaredjomar" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaredjomar&" alt="jaredjomar" /></p>
