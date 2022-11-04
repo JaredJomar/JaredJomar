@@ -31,7 +31,10 @@
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredjomar&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JaredJomar&theme=gruvbox&border_radius=4.5) -->
+#
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jaredjoma&show_icons=true&theme=gruvbox)
 
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JaredJomar&theme=gruvbox&border_radius=4.5) -->
 #
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaredjomar&show_icons=true&locale=en&layout=compact" alt="jaredjomar" /></p>
 
