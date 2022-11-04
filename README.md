@@ -49,7 +49,7 @@
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JaredJomar&theme=gruvbox&border_radius=4.5) -->
 #
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=jaredjomar&show_icons=true&locale=en&layout=compact"
