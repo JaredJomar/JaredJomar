@@ -21,7 +21,7 @@
 -->
 
 <a href="https://github.com/JaredJomar?tab=views">
-   <img alt="youtube views" title="Github views"
+   <img alt="youtube views" title="Youtube views"
       src="https://github.com/JaredJomar" /></a>
 <a href="https://github.com/JaredJomar?tab=followers">
    <img alt="followers" title="Follow me on Github"
