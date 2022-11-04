@@ -21,7 +21,7 @@
 -->
 
 <a href="https://github.com/JaredJomar?tab=views">
-   <img alt="github views" title="Github views"
+   <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       src="[https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat" /></a>
 <a href="https://github.com/JaredJomar?tab=followers">
    <img alt="followers" title="Follow me on Github"
