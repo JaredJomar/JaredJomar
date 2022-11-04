@@ -5,7 +5,7 @@
       alt="jaredjomar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-         src="https://github-profile-trophy.vercel.app/?username=jaredjomar" alt="jaredjomar" /></a> </p>
+         src="https://github-profile-trophy.vercel.app/?username=jaredjomar&show_icons=true&theme=radical" alt="jaredjomar" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks, C++ and Python**
 
