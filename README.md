@@ -51,6 +51,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredjomar&layout=compact)](https://github.com/jaredjomar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredjomar&exclude_repo=github-readme-stats,jaredjomar.github.io)](https://github.com/jaredjomar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredjomar&langs_count=8)](https://github.com/jaredjomar/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaredjomar&" alt="jaredjomar" /></p>
