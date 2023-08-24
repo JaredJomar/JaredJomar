@@ -16,17 +16,17 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat"
+       alt="Profile views of Jared Jomar" />
+</p>
+
+<p align="left">
   <a href="https://github.com/JaredJomar?tab=followers">
     <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JaredJomar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
   </a>
   <a href="https://github.com/JaredJomar?tab=repositories&sort=stargazers">
     <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JaredJomar?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
   </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat"
-       alt="Profile views of Jared Jomar" />
 </p>
 
 <p align="left">
