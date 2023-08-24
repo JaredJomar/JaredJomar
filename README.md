@@ -5,17 +5,6 @@
   <img alt="Coding" width="400" src="https://c.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif">
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat"
-       alt="Profile views of Jared Jomar" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jaredjomar&show_icons=true&theme=radical" alt="GitHub trophies of Jared Jomar" />
-  </a>
-</p>
-
 <h3 align="left">🌱 Currently Learning:</h3>
 <p align="left">
   • Frameworks
@@ -25,12 +14,24 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://github.com/JaredJomar?tab=followers">
     <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JaredJomar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
   </a>
   <a href="https://github.com/JaredJomar?tab=repositories&sort=stargazers">
     <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JaredJomar?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat"
+       alt="Profile views of Jared Jomar" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jaredjomar&show_icons=true&theme=radical" alt="GitHub trophies of Jared Jomar" />
   </a>
 </p>
 
