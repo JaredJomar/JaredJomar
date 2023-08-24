@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
 <h3 align="center">Computer Engineer Student from Puerto Rico</h3>
 
-<p align="right">
+<p align="center">
   <img alt="Coding" width="400" src="https://c.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif">
 </p>
 
@@ -53,17 +53,15 @@
   </a>
 </p>
 
-<h3 align="left">📊 Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaredjomar&show_icons=true&theme=radical" alt="Jared Jomar's GitHub Stats" />
-</p>
+<h3 align="center">📊 Stats</h3>
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaredjomar&show_icons=true&theme=radical" alt="Jared Jomar's GitHub Stats" />
   <a href="https://github.com/jaredjomar/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredjomar&layout=compact&show_icons=true&theme=radical" alt="Top Languages of Jared Jomar" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaredjomar&show_icons=true&theme=radical" alt="Jared Jomar's GitHub Streak" />
 </p>
