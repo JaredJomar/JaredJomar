@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Profile views](https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=jaredjomar){:height="25px" width="140px"}
+[![Profile views](https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=jaredjomar)
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/JaredJomar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/JaredJomar?tab=followers)
 [![Total stars](https://custom-icon-badges.demolab.com/github/stars/JaredJomar?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/JaredJomar?tab=repositories&sort=stargazers)
 
