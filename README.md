@@ -16,7 +16,7 @@
         display: inline-block;
         font: normal bold 20px/1 'Open Sans', sans-serif;
         text-align: center;
-        aling="center"
+        aling: center;
     ">
         Resume
     </span>
