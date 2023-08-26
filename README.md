@@ -13,7 +13,21 @@
   • Java
 </p>
 
-[![Resume](https://placehold.it/200x50/0ed6d6/b860f3?text=Resume)](https://sistemaupr-my.sharepoint.com/:i:/g/personal/jared_cruz_upr_edu/Efa7HCuV1plChr3HQPGo2OcB3pR8i3t7EBSBNbNUPUk1qw?e=Ffx8gn)
+<a href="https://www.canva.com/design/DAFsqAuL-uI/y2VJ6he5Spqu9mkif4O2Ew/view?utm_content=DAFsqAuL-uI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" style="
+    text-decoration: none;
+">
+    <span style="
+        background: linear-gradient(#0ed6d6, #b860f3);
+        border-radius: 1000px;
+        padding: 20px 45px;
+        color: #ffffff;
+        display: inline-block;
+        font: normal bold 20px/1 'Open Sans', sans-serif;
+        text-align: center;
+    ">
+        Resume
+    </span>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 
