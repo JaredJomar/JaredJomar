@@ -13,6 +13,7 @@
   • Java
 </p>
 
+<h3 align="left">Connect with me:</h3>
 <a href="https://www.canva.com/design/DAFsqAuL-uI/y2VJ6he5Spqu9mkif4O2Ew/view?utm_content=DAFsqAuL-uI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" style="
     text-decoration: none;
 ">
@@ -28,8 +29,6 @@
         Resume
     </span>
 </a>
-
-<h3 align="left">Connect with me:</h3>
 
 [![Profile views](https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=jaredjomar)
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/JaredJomar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/JaredJomar?tab=followers)
