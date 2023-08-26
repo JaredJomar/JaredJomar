@@ -5,15 +5,6 @@
   <img alt="Coding" width="400" src="https://c.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif">
 </p>
 
-<h3 align="left">🌱 Currently Learning:</h3>
-<p align="left">
-  • Frameworks
-  • C++
-  • Python
-  • Java
-</p>
-
-<h3 align="left">Connect with me:</h3>
 <a href="https://www.canva.com/design/DAFsqAuL-uI/y2VJ6he5Spqu9mkif4O2Ew/view?utm_content=DAFsqAuL-uI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" style="
     text-decoration: none;
 ">
@@ -25,10 +16,21 @@
         display: inline-block;
         font: normal bold 20px/1 'Open Sans', sans-serif;
         text-align: center;
+        aling="center"
     ">
         Resume
     </span>
 </a>
+
+<h3 align="left">🌱 Currently Learning:</h3>
+<p align="left">
+  • Frameworks
+  • C++
+  • Python
+  • Java
+</p>
+
+<h3 align="left">Connect with me:</h3>
 
 [![Profile views](https://komarev.com/ghpvc/?username=jaredjomar&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=jaredjomar)
 [![Followers](https://custom-icon-badges.demolab.com/github/followers/JaredJomar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/JaredJomar?tab=followers)
