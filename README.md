@@ -16,7 +16,7 @@
             padding: 20px 45px;
             color: #ffffff;
             display: inline-block;
-            font: normal bold 20px/1 'Open Sans', sans-serif;
+            font: bold 24px/1 'Open Sans', sans-serif; /* Changed font size and added bold */
             text-align: center;
         ">
             Resume
