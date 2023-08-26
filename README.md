@@ -1,26 +1,29 @@
 <h1 align="center">Hi 👋, I'm Jared</h1>
 <h3 align="center">Computer Engineer Student from Puerto Rico</h3>
 
-<p align="center">
-  <img alt="Coding" width="400" src="https://c.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif">
-</p>
+<div align="center">
+  <p>
+    <img alt="Coding" width="400" src="https://c.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif">
+  </p>
 
-<a href="https://www.canva.com/design/DAFsqAuL-uI/y2VJ6he5Spqu9mkif4O2Ew/view?utm_content=DAFsqAuL-uI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" style="
-    text-decoration: none;
-">
-    <span style="
-        background: linear-gradient(#0ed6d6, #b860f3);
-        border-radius: 1000px;
-        padding: 20px 45px;
-        color: #ffffff;
-        display: inline-block;
-        font: normal bold 20px/1 'Open Sans', sans-serif;
-        text-align: center;
-        aling: center;
+  <p>
+    <a href="https://www.canva.com/design/DAFsqAuL-uI/y2VJ6he5Spqu9mkif4O2Ew/view?utm_content=DAFsqAuL-uI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" style="
+        text-decoration: none;
     ">
-        Resume
-    </span>
-</a>
+        <span style="
+            background: linear-gradient(#0ed6d6, #b860f3);
+            border-radius: 1000px;
+            padding: 20px 45px;
+            color: #ffffff;
+            display: inline-block;
+            font: normal bold 20px/1 'Open Sans', sans-serif;
+            text-align: center;
+        ">
+            Resume
+        </span>
+    </a>
+  </p>
+</div>
 
 <h3 align="left">🌱 Currently Learning:</h3>
 <p align="left">
