@@ -71,7 +71,7 @@
   <a href="https://github.com/jaredjomar/github-readme-stats">
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaredjomar&show_icons=true&theme=radical" alt="Jared Jomar's GitHub Streak" />
 </p>
 
