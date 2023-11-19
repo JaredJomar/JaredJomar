@@ -66,7 +66,7 @@
 
 <h3 align="center">📊 Stats</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jaredjomar&show_icons=true&theme=radical" alt="Jared Jomar's GitHub Stats" />
   <a href="https://github.com/jaredjomar/github-readme-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaredjomar&show_icons=true&theme=radical" alt="Jared Jomar's GitHub Streak" />
