@@ -28,14 +28,15 @@ Computer Engineer Student from Puerto Rico
 </div>
 
 * 🌍  I'm based in Puerto Rico
-* <p align="left">
+
+<a href="https://www.github.com/JaredJomar" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/JaredJomar?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
+
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jaredjomar&show_icons=true&theme=radical" alt="GitHub trophies of Jared Jomar" />
   </a>
 </p>
-
-<a href="https://www.github.com/JaredJomar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JaredJomar?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
 ### Skills
 
