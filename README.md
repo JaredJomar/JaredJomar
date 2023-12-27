@@ -1,7 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Jared
+<p align="center">
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Jared
+  </p>
 =============================================================================================================================
-
+<p align="center">
 Computer Engineer Student from Puerto Rico
+  </p>
 ------------------------------------------
 <div align="center">
   <p>
