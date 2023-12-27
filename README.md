@@ -3,6 +3,29 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Computer Engineer Student from Puerto Rico
 ------------------------------------------
+<div align="center">
+  <p>
+    <img alt="Coding" width="400" src="https://c.tenor.com/ccmSmZhIXNwAAAAC/code-lyoko-jeremy.gif">
+  </p>
+
+  <p>
+    <a href="https://www.canva.com/design/DAFsqAuL-uI/y2VJ6he5Spqu9mkif4O2Ew/view?utm_content=DAFsqAuL-uI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" style="
+        text-decoration: none;
+    ">
+        <span style="
+            background: linear-gradient(#0ed6d6, #b860f3);
+            border-radius: 1000px;
+            padding: 20px 45px;
+            color: #ffffff;
+            display: inline-block;
+            font: bold 24px/1 'Open Sans', sans-serif; 
+            text-align: center;
+        ">
+            Resume
+        </span>
+    </a>
+  </p>
+</div>
 
 * 🌍  I'm based in Puerto Rico
 
