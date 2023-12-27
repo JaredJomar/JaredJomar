@@ -33,7 +33,7 @@ src="https://img.shields.io/github/followers/JaredJomar?logo=github&style=for-th
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jaredjomar&show_icons=true&theme=radical" alt="GitHub trophies of Jared Jomar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JaredJomar&show_icons=true&theme=radical" alt="GitHub trophies of Jared Jomar" />
   </a>
 </p>
 
