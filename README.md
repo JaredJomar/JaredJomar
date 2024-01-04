@@ -61,4 +61,4 @@ src="https://img.shields.io/github/followers/JaredJomar?logo=github&style=for-th
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/JaredJomar/https://github.com/JaredJomar/Projects/tree/8f687c077f52bec33b4f1920936886e22fbc3ead" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JaredJomar&repo=https://github.com/JaredJomar/Projects/tree/8f687c077f52bec33b4f1920936886e22fbc3ead&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/JaredJomar/https://github.com/JaredJomar/Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JaredJomar&repo=https://github.com/JaredJomar/Projects/tree/8f687c077f52bec33b4f1920936886e22fbc3ead&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
