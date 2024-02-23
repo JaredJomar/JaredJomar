@@ -8,7 +8,7 @@ Computer Engineer Student from Puerto Rico
   </p>
 
   <p>
-    <a href="https://www.canva.com/design/DAFsqAuL-uI/y2VJ6he5Spqu9mkif4O2Ew/view?utm_content=DAFsqAuL-uI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" style="
+    <a href="https://flowcv.com/resume/elab410wok" style="
         text-decoration: none;
     ">
         <span style="
