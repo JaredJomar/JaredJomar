@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" />
   <!-- Scripting -->
-  <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" width="36" height="36" alt="Bash" />
+  <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" width="36" height="36" alt="Bat" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" width="36" height="36" alt="PowerShell" />
   <!-- Hardware -->
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
