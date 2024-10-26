@@ -48,58 +48,95 @@
 
 ### 💻 Skills
 
+<style>
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  .skill-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: transparent;
+    padding: 8px 5px; 
+    border-radius: 8px;
+    font-size: 16px; 
+  }
+  .skill-item img {
+    width: 24px;
+    height: 24px;
+  }
+</style>
 
-<div align="center">
+<div class="skills-container">
   <!-- Programming Languages -->
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /><br>C++
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
+    C++
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /><br>Java
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" />
+    Java
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /><br>Python
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" />
+    Python
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /><br>JavaScript
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
+    JavaScript
   </div>
   <!-- Web Development -->
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /><br>HTML5
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
+    HTML5
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /><br>CSS3
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
+    CSS3
   </div>
   <!-- Databases -->
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /><br>MySQL
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
+    MySQL
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /><br>PostgreSQL
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" />
+    PostgreSQL
   </div>
   <!-- DevOps and Tools -->
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /><br>Docker
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" />
+    Docker
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /><br>Git
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" />
+    Git
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /><br>Linux
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" />
+    Linux
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /><br>Heroku
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="Heroku" />
+    Heroku
   </div>
   <!-- Scripting -->
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" width="36" height="36" alt="Bash" /><br>Bat
+  <div class="skill-item">
+    <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" alt="Bash" />
+    Bash
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" width="36" height="36" alt="PowerShell" /><br>PowerShell
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" alt="PowerShell" />
+    PowerShell
   </div>
   <!-- Hardware -->
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /><br>Arduino
+  <div class="skill-item">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" />
+    Arduino
   </div>
 </div>
 
