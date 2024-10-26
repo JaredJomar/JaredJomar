@@ -51,7 +51,7 @@
 <div align="center">
   <table>
     <tr>
-      <td colspan="15"><strong>Programming Languages</strong></td>
+      <td colspan="15"><strong>Programming Languages and Web Development</strong></td>
     </tr>
     <tr>
       <td align="center">
