@@ -53,21 +53,21 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
-    padding: 20px;
+    gap: 15px;
+    padding: 15px;
   }
   .skill-item {
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 4px;
     background: transparent;
-    padding: 8px 5px; 
-    border-radius: 8px;
-    font-size: 16px; 
+    padding: 4px 3px; 
+    border-radius: 4px;
+    font-size: 14px; 
   }
   .skill-item img {
-    width: 24px;
-    height: 24px;
+    width: 16px;
+    height: 16px;
   }
 </style>
 
@@ -139,7 +139,6 @@
     Arduino
   </div>
 </div>
-
 ---
 
 ### 🏆 GitHub Achievements
