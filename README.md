@@ -48,97 +48,116 @@
 
 ### 💻 Skills
 
-<style>
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 15px;
-    padding: 15px;
-  }
-  .skill-item {
-    display: flex;
-    align-items: center;
-    gap: 4px;
-    background: transparent;
-    padding: 4px 3px; 
-    border-radius: 4px;
-    font-size: 14px; 
-  }
-  .skill-item img {
-    width: 16px;
-    height: 16px;
-  }
-</style>
-
-<div class="skills-container">
-  <!-- Programming Languages -->
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
-    C++
-  </div>
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" />
-    Java
-  </div>
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" />
-    Python
-  </div>
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
-    JavaScript
-  </div>
-  <!-- Web Development -->
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
-    HTML5
-  </div>
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
-    CSS3
-  </div>
-  <!-- Databases -->
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
-    MySQL
-  </div>
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" />
-    PostgreSQL
-  </div>
-  <!-- DevOps and Tools -->
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" />
-    Docker
-  </div>
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" />
-    Git
-  </div>
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" />
-    Linux
-  </div>
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="Heroku" />
-    Heroku
-  </div>
-  <!-- Scripting -->
-  <div class="skill-item">
-    <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" alt="Bash" />
-    Bash
-  </div>
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" alt="PowerShell" />
-    PowerShell
-  </div>
-  <!-- Hardware -->
-  <div class="skill-item">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" />
-    Arduino
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td colspan="15"><strong>Programming Languages</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+          <br />C++
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+          <br />Java
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+          <br />Python
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+          <br />JavaScript
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+          <br />HTML5
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+          <br />CSS3
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="15"><strong>Databases & DevOps</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+          <br />MySQL
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+          <br />PostgreSQL
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+          <br />Docker
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+          <br />Git
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+          <br />Linux
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" />
+          <br />Heroku
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="15"><strong>Scripting & Hardware</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+          <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" width="36" height="36" alt="Bash" />
+          <br />Bat
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" width="36" height="36" alt="PowerShell" />
+          <br />PowerShell
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
+          <br />Arduino
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 ---
 
 ### 🏆 GitHub Achievements
