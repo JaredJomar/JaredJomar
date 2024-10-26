@@ -21,7 +21,11 @@
 - Constantly learning new languages and frameworks
 
 <a href="https://www.github.com/JaredJomar" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/JaredJomar?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" style="width: 180; height: auto;" />
+  <img src="https://img.shields.io/github/followers/JaredJomar?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" style="width: 150px; height: auto;" />
+</a>
+<br>
+<a href="https://wakatime.com/@628ab87c-405a-4a29-8c87-079bc17f01c2" target="_blank" rel="noreferrer">
+  <img src="https://wakatime.com/badge/user/628ab87c-405a-4a29-8c87-079bc17f01c2.svg" style="width: 190px; height: auto;" />
 </a>
 
 ---
@@ -47,26 +51,56 @@
 
 <div align="center">
   <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /><br>C++
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /><br>Java
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /><br>Python
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /><br>JavaScript
+  </div>
   <!-- Web Development -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /><br>HTML5
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /><br>CSS3
+  </div>
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /><br>MySQL
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /><br>PostgreSQL
+  </div>
   <!-- DevOps and Tools -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /><br>Docker
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /><br>Git
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /><br>Linux
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /><br>Heroku
+  </div>
   <!-- Scripting -->
-  <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" width="36" height="36" alt="Bat" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" width="36" height="36" alt="PowerShell" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" width="36" height="36" alt="Bash" /><br>Bat
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" width="36" height="36" alt="PowerShell" /><br>PowerShell
+  </div>
   <!-- Hardware -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /><br>Arduino
+  </div>
 </div>
 
 ---
