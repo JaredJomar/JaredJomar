@@ -16,9 +16,10 @@
 ---
 
 ### 🌍 About Me
-- Based in Puerto Rico 🇵🇷
-- Passionate about technology, coding, and solving real-world problems
-- Constantly learning new languages and frameworks
+- Based in Puerto Rico 🇵🇷  
+- Computer Engineering student passionate about full-stack development, cloud deployment, Artificial Intelligence 🤖, and system design  
+- Skilled in building applications that connect backend APIs, databases, and secure authentication  
+- Constantly learning new languages, frameworks, and exploring real-world applications  
 
 <a href="https://www.github.com/JaredJomar" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/JaredJomar?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" style="width: 150px; height: auto;" />
@@ -108,6 +109,12 @@
         </a>
       </td>
       <td align="center">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
+          <br />MongoDB
+        </a>
+      </td>
+      <td align="center">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
           <br />Docker
@@ -154,6 +161,12 @@
           <br />Arduino
         </a>
       </td>
+      <td align="center">
+        <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="36" height="36" alt="MATLAB" />
+          <br />MATLAB
+        </a>
+      </td>
     </tr>
   </table>
 </div>
@@ -177,7 +190,7 @@
 </div>
 
 <div align="center">
-  <img width=400 height=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JaredJomar&layout=compact&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true" alt="WakaTime stats" />
+  <img width=400 height=250 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JaredJomar&layout=compact&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true" alt="WakaTime stats" />
   <img width=400 height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaredJomar&langs_count=10&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true" alt="Top Languages" />
 </div>
 
