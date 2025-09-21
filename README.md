@@ -18,7 +18,7 @@
 ### 🌍 About Me
 - Based in Puerto Rico 🇵🇷  
 - Computer Engineering student passionate about full-stack development, cloud deployment, Artificial Intelligence 🤖, and system design  
-- Skilled in building applications that connect backend APIs, databases, and secure authentication  
+- Skilled in building applications that connect backend APIs, databases, authentication, and secure cloud deployment  
 - Constantly learning new languages, frameworks, and exploring real-world applications  
 
 <a href="https://www.github.com/JaredJomar" target="_blank" rel="noreferrer">
@@ -115,6 +115,18 @@
         </a>
       </td>
       <td align="center">
+        <a href="https://auth0.com/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/2824157?s=200&v=4" width="36" height="36" alt="Auth0" />
+          <br />Auth0
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://render.com/" target="_blank" rel="noreferrer">
+          <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="36" height="36" alt="Render" />
+          <br />Render
+        </a>
+      </td>
+      <td align="center">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
           <br />Docker
@@ -147,6 +159,12 @@
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
           <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" width="36" height="36" alt="Bash" />
           <br />Bat
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" height="36" alt="Bash" />
+          <br />Bash
         </a>
       </td>
       <td align="center">
