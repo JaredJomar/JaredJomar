@@ -47,13 +47,26 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           version: v1.0.0
 
+      - name: Check for trophy profile token
+        id: trophy-token
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: |
+          if [ -n "$PROFILE_STATS_TOKEN" ]; then
+            echo "available=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            echo "::notice title=Trophy card skipped::Add the PROFILE_STATS_TOKEN repository secret with read:user access to generate the trophy card."
+          fi
+
       - name: Generate GitHub trophy card
-        uses: ryo-ma/github-profile-trophy@2ba2fe648c4e9b17d66e01bec285e083ca1824d3
+        if: steps.trophy-token.outputs.available == 'true'
+        uses: soulteary/github-profile-trophy-action@16c0df6a4ea8f6e2cd0a6969435faa72b8ec966e
         with:
-          username: ${{ github.repository_owner }}
-          output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: radical
+          options: 'username=${{ github.repository_owner }}&theme=radical'
+          path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          version: v1.0.0
 
       - name: Upload generated cards
         uses: actions/upload-artifact@v4
