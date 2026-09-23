@@ -24,21 +24,11 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub stats card
-        if: steps.trophy-token.outputs.available == 'true'
-        uses: soulteary/github-readme-stats-action@ff8b194940a267831d546cc622df5687644ecc81
-        with:
-          card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true'
-          path: profile/stats.svg
-          token: ${{ secrets.PROFILE_STATS_TOKEN }}
-          version: v1.0.0
-
       - name: Generate WakaTime card
         uses: soulteary/github-readme-stats-action@ff8b194940a267831d546cc622df5687644ecc81
         with:
           card: wakatime
-          options: 'username=JaredJomar&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true'
+          options: 'username=JaredJomar&layout=compact&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true'
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           version: v1.0.0
@@ -50,27 +40,6 @@ jobs:
           options: 'username=${{ github.repository_owner }}&langs_count=10&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          version: v1.0.0
-
-      - name: Check for trophy profile token
-        id: trophy-token
-        env:
-          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
-        run: |
-          if [ -n "$PROFILE_STATS_TOKEN" ]; then
-            echo "available=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "available=false" >> "$GITHUB_OUTPUT"
-            echo "::notice title=Trophy card skipped::Add the PROFILE_STATS_TOKEN repository secret with read:user access to generate the trophy card."
-          fi
-
-      - name: Generate GitHub trophy card
-        if: steps.trophy-token.outputs.available == 'true'
-        uses: soulteary/github-profile-trophy-action@16c0df6a4ea8f6e2cd0a6969435faa72b8ec966e
-        with:
-          options: 'username=${{ github.repository_owner }}&theme=radical'
-          path: profile/trophy.svg
-          token: ${{ secrets.PROFILE_STATS_TOKEN }}
           version: v1.0.0
 
       - name: Upload generated cards
