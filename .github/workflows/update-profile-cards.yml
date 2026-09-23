@@ -11,6 +11,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: profile-cards-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -99,4 +103,5 @@ jobs:
             exit 0
           fi
           git commit -m "chore: refresh profile cards"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
