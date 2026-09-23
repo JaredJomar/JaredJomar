@@ -1,7 +1,7 @@
 <h1 align="left"><b>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Jared Cruz!</b></h1>
 
 ---
-### Computer Engineering Student | Puerto Rico
+### Computer Engineering Student | Front-End, Web & Software Development | Puerto Rico
 
 <div align="center">
   <p>
@@ -17,9 +17,11 @@
 
 ### 🌍 About Me
 - Based in Puerto Rico 🇵🇷  
-- Computer Engineering student passionate about full-stack development, cloud deployment, Artificial Intelligence 🤖, and system design  
-- Skilled in building applications that connect backend APIs, databases, authentication, and secure cloud deployment  
-- Constantly learning new languages, frameworks, and exploring real-world applications  
+- Computer Engineering student at the University of Puerto Rico at Mayagüez, graduating in December 2026  
+- Building practical full-stack applications with Python, JavaScript, React, Node.js, and databases  
+- Experienced in connecting user interfaces, REST APIs, databases, authentication, and secure cloud deployment  
+- Research experience developing a Python control interface and Arduino back end for an RC robot with an AR-enabled headset  
+- Seeking entry-level Front-End Developer, Web Developer, and Software Developer opportunities  
 
 <a href="https://www.github.com/JaredJomar" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/JaredJomar?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" style="width: 150px; height: auto;" />
@@ -40,10 +42,22 @@
   <a href="https://www.linkedin.com/in/jared-cruz-880359263/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://jaredjomar.github.io/portafolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3382ed?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://greasyfork.org/en/users/900539-jaredjomar" target="_blank">
     <img src="https://img.shields.io/badge/GreasyFork-3382ed?style=for-the-badge" alt="GreasyFork" />
   </a>
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+- **JBooks** — Full-stack library management application with catalog browsing, authenticated access, administrative workflows, loans, holds, metadata lookup, CSV reporting, and Supabase Row Level Security.  
+- **WalletAlert** — Student-focused personal finance application with budgets, categories, transactions, a React/Vite interface, Node.js and Express APIs, MongoDB, and Auth0 authentication.  
+- **[Transcriber](https://github.com/JaredJomar/Transcriber)** — Python and PyQt6 desktop application for transcribing YouTube videos and playlists with OpenAI Whisper, yt-dlp, FFmpeg, and automatic CUDA, DirectML, or CPU selection.  
+- **[AI-Powered Virtual Institutional Counselor](https://github.com/JaredJomar/VIC-Virtual-Institutional-Counselor)** — Flask and Streamlit chatbot using LLM capabilities, SentenceTransformer embeddings, semantic search, REST APIs, and PostgreSQL persistence.  
 
 ---
 
@@ -91,6 +105,24 @@
           <br />CSS3
         </a>
       </td>
+      <td align="center">
+        <a href="https://react.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
+          <br />React
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
+          <br />Node.js
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
+          <br />Next.js
+        </a>
+      </td>
     </tr>
     <tr>
       <td colspan="15"><strong>Databases & DevOps</strong></td>
@@ -112,6 +144,12 @@
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
           <br />MongoDB
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="36" height="36" alt="Supabase" />
+          <br />Supabase
         </a>
       </td>
       <td align="center">
@@ -156,9 +194,9 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-          <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" width="36" height="36" alt="Bash" />
-          <br />Bat
+        <a href="https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands" target="_blank" rel="noreferrer">
+          <img src="https://www.certcop.com/wp-content/uploads/2020/07/1-bash%20icon-400x400.png" width="36" height="36" alt="Batch" />
+          <br />Batch
         </a>
       </td>
       <td align="center">
