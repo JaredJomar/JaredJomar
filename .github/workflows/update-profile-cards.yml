@@ -48,7 +48,7 @@ jobs:
           version: v1.0.0
 
       - name: Generate GitHub trophy card
-        uses: ryo-ma/github-profile-trophy@2ba2fe6
+        uses: ryo-ma/github-profile-trophy@2ba2fe648c4e9b17d66e01bec285e083ca1824d3
         with:
           username: ${{ github.repository_owner }}
           output_path: profile/trophy.svg
