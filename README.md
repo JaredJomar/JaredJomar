@@ -252,9 +252,9 @@
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="./profile/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.gif" />
+  <img alt="GitHub contribution snake" src="./profile/github-contribution-grid-snake.gif" />
 </picture>
 
 ---
