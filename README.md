@@ -198,7 +198,7 @@
       </td>
       <td align="center">
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" height="36" alt="Bash" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" />
           <br />Bash
         </a>
       </td>
