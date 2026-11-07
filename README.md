@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Jared%20Cruz" alt="Jared Cruz banner" />
+</p>
+
 <h1 align="left"><b>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Jared Cruz!</b></h1>
 
 ---
 ### Computer Engineering Student | Front-End, Web & Software Development | Puerto Rico
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3382ed&width=600&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Computer+Engineering+Student&center=true&vCenter=true" alt="Typing animation" />
+</p>
 
 <div align="center">
   <p>
@@ -56,8 +64,11 @@
 
 - **JBooks** — Full-stack library management application with catalog browsing, authenticated access, administrative workflows, loans, holds, metadata lookup, CSV reporting, and Supabase Row Level Security.  
 - **WalletAlert** — Student-focused personal finance application with budgets, categories, transactions, a React/Vite interface, Node.js and Express APIs, MongoDB, and Auth0 authentication.  
-- **[Transcriber](https://github.com/JaredJomar/Transcriber)** — Python and PyQt6 desktop application for transcribing YouTube videos and playlists with OpenAI Whisper, yt-dlp, FFmpeg, and automatic CUDA, DirectML, or CPU selection.  
-- **[AI-Powered Virtual Institutional Counselor](https://github.com/JaredJomar/VIC-Virtual-Institutional-Counselor)** — Flask and Streamlit chatbot using LLM capabilities, SentenceTransformer embeddings, semantic search, REST APIs, and PostgreSQL persistence.  
+
+<div align="center">
+  <img width="49%" src="./profile/pin-Transcriber.svg" alt="Transcriber repository" />
+  <img width="49%" src="./profile/pin-VIC-Virtual-Institutional-Counselor.svg" alt="Virtual Institutional Counselor repository" />
+</div>
 
 ---
 
@@ -242,7 +253,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img width="49%" src="./profile/stats.svg" alt="Jared's GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaredJomar&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=JaredJomar&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
 </div>
 
 <div align="center">
@@ -251,3 +262,33 @@
 </div>
 
 ---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="./profile/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 🌐 3D Contributions
+
+<p align="center">
+  <img src="./profile/3d-contrib.svg" alt="3D contribution calendar" />
+</p>
+
+---
+
+### 📈 GitHub Metrics
+
+<p align="center">
+  <img src="./profile/metrics.svg" alt="GitHub metrics" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaredJomar&label=Profile+views&color=3382ed&style=flat" alt="Profile views" />
+</p>
