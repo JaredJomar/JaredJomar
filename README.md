@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Jared%20Cruz" alt="Jared Cruz banner" />
 </p>
 
-<h1 align="left"><b>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> I'm Jared Cruz!</b></h1>
-
 ---
 ### Computer Engineering Student | Front-End, Web & Software Development | Puerto Rico
 
@@ -57,18 +55,6 @@
     <img src="https://img.shields.io/badge/GreasyFork-3382ed?style=for-the-badge" alt="GreasyFork" />
   </a>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-- **JBooks** — Full-stack library management application with catalog browsing, authenticated access, administrative workflows, loans, holds, metadata lookup, CSV reporting, and Supabase Row Level Security.  
-- **WalletAlert** — Student-focused personal finance application with budgets, categories, transactions, a React/Vite interface, Node.js and Express APIs, MongoDB, and Auth0 authentication.  
-
-<div align="center">
-  <img width="49%" src="./profile/pin-Transcriber.svg" alt="Transcriber repository" />
-  <img width="49%" src="./profile/pin-VIC-Virtual-Institutional-Counselor.svg" alt="Virtual Institutional Counselor repository" />
-</div>
 
 ---
 
