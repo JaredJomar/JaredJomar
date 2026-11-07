@@ -33,6 +33,14 @@ jobs:
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           version: v1.0.0
 
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: JaredJomar
+          file: profile/trophy.svg
+          theme: radical
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
       - name: Generate WakaTime card
         uses: soulteary/github-readme-stats-action@ff8b194940a267831d546cc622df5687644ecc81
         with:
