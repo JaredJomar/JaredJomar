@@ -233,7 +233,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JaredJomar&show_icons=true&theme=radical" alt="GitHub trophies of Jared Jomar" />
+    <img src="./profile/trophy.svg" alt="GitHub trophies of Jared Jomar" />
   </a>
 </p>
 
