@@ -59,6 +59,49 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           version: v1.0.0
 
+      - name: Generate Transcriber pin card
+        uses: soulteary/github-readme-stats-action@ff8b194940a267831d546cc622df5687644ecc81
+        with:
+          card: pin
+          options: 'username=JaredJomar&repo=Transcriber&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_owner=true'
+          path: profile/pin-Transcriber.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          version: v1.0.0
+
+      - name: Generate Virtual Institutional Counselor pin card
+        uses: soulteary/github-readme-stats-action@ff8b194940a267831d546cc622df5687644ecc81
+        with:
+          card: pin
+          options: 'username=JaredJomar&repo=VIC-Virtual-Institutional-Counselor&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_owner=true'
+          path: profile/pin-VIC-Virtual-Institutional-Counselor.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          version: v1.0.0
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: JaredJomar
+          outputs: |
+            profile/github-contribution-grid-snake.svg
+            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Copy 3D calendar into profile folder
+        run: cp profile-3d-contrib/profile-night-rainbow.svg profile/3d-contrib.svg
+
+      - name: Generate metrics infographic
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile/metrics.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
       - name: Upload generated cards
         uses: actions/upload-artifact@v4
         with:
