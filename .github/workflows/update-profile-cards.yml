@@ -101,6 +101,7 @@ jobs:
         with:
           filename: profile/metrics.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          output_action: none
 
       - name: Upload generated cards
         uses: actions/upload-artifact@v4
