@@ -39,7 +39,7 @@ jobs:
           username: JaredJomar
           file: profile/trophy.svg
           theme: radical
-          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          token: ${{ secrets.PROFILE_PUBLIC_TOKEN }}
 
       - name: Generate WakaTime card
         uses: soulteary/github-readme-stats-action@ff8b194940a267831d546cc622df5687644ecc81
@@ -81,7 +81,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: profile/metrics.svg
-          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+          token: ${{ secrets.PROFILE_PUBLIC_TOKEN }}
           output_action: none
 
       - name: Copy metrics infographic into profile folder
